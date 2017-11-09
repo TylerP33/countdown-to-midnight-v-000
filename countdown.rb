@@ -1,9 +1,7 @@
 def countdown
-counter = 10
-loop do
-  counter -= 1
-  while "#{number}" > 0
+while number > 0
   puts "#{number} SECOND(S)"
+  number -= 1
 end
 puts "HAPPY NEW YEAR!"
 end
