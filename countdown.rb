@@ -6,5 +6,5 @@ def countdown
 end
 if number = 0
   puts "HAPPY NEW YEAR!"
-else 
+else
 end
