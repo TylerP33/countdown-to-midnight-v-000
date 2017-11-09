@@ -1,4 +1,4 @@
-def countdown
+def countdown_with_sleep
   number = 10
 while number > 0
   number -= 1
